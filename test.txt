@@ -1,8 +1,5 @@
-
-
-
-
 This is sample text doccument
+This is the modified text in clone directory
 
 
 
